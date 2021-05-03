@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I also work here at
+
+    https://github.com/aaronleesmu
+    https://gitlab.com/aaronleesmu
+    https://scis.smu.edu.sg/people/staff
+
 <!--
 **aaronlks/aaronlks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
