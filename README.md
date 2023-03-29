@@ -6,7 +6,7 @@ I also work here at
    - https://gitlab.com/aaronleesmu
    - https://scis.smu.edu.sg/people/staff
 
-** NOTE: Starred repos are not necessarily related to my work at SMU, some might be. Thanks. **
+** NOTE: Starred repos are not necessarily related to my work, some might be. Thanks. **
 
 
 <!--
