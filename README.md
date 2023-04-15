@@ -1,13 +1,12 @@
 ### Hi there 👋
 
+**NOTE:** This is my personal github. I star repos out of curiosity and interest, mainly for learning purposes, not necessarily related to work. Thanks.
+
 I work at
 
    - https://github.com/aaronleesmu
    - https://gitlab.com/aaronleesmu
    - https://scis.smu.edu.sg/people/staff
-
-**NOTE:** I star repos out of curiosity and interest, mainly for learning purposes, not necessarily related to work. Thanks.
-
 
 <!--
 **aaronlks/aaronlks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
