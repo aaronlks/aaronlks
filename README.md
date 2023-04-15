@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I also work here at
+I work at
 
    - https://github.com/aaronleesmu
    - https://gitlab.com/aaronleesmu
    - https://scis.smu.edu.sg/people/staff
 
-** NOTE: I star repos out of curiosity and interest, mainly for learning purposes, not necessarily related to work. Thanks. **
+**NOTE:** I star repos out of curiosity and interest, mainly for learning purposes, not necessarily related to work. Thanks.
 
 
 <!--
