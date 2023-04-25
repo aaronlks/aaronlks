@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**NOTE:** This is my personal github. I star repos out of curiosity and interest, mainly for learning purposes, not necessarily related to work. Thanks.
+**NOTE:** This is my personal github. I star repos out of curiosity and interest, mainly for learning purposes. Thanks.
 
 I work at
 
