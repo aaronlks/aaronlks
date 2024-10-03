@@ -3,8 +3,7 @@
 **NOTE:** This is my personal github. I star repos out of curiosity and interest, mainly for learning purposes. Thanks.
 
 I work at https://computing.smu.edu.sg 
-and use https://github.com/aaronleesmu 
-as well as https://github.com/sgsmuscis for work
+and use https://github.com/aaronleesmu for work.
 
 <!--
 **aaronlks/aaronlks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
